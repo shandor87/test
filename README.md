@@ -30,4 +30,4 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Github ###
 
-* Automatic github synchronization set up
+* Automatic github synchronization set up done
